@@ -1,4 +1,4 @@
-# flink introduction
+# Apache Flink introduction
 
 To run the sample program, start NetCat on the terminal to obtain the input stream:
 
